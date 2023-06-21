@@ -2,7 +2,7 @@
 
 ### [Live Site](https://search-dummyjson.web.app/)
 
-![Search Application]()
+![Search Application](https://raw.githubusercontent.com/LeewisJohn/search-dumpdata/main/app.PNG)
 
 ## Introduction
 This is a code repository for Search-dummyjson Application. 
